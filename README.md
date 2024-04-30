@@ -13,8 +13,8 @@ Farmers traditionally rely on historical data and broad weather forecasts, which
 - joblib ```pip install joblib```
 
 ## Team Members
-- Aman Ostwal (ago34@drexel.edu)
-- Darshit Rai (dr3264@drexel.edu)
+- Aman Ostwal - (ago34@drexel.edu)
+- Darshit Rai - (dr3264@drexel.edu)
 - Saurabh Sawant – (sss448@drexel.edu)
 - Jai Vaidya – (jv625@drexel.edu)
 - Apurva Deshpande - (aad368@drexel.edu)
